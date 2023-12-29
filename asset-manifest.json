@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/workshop/static/css/main.f855e6bc.css",
+    "main.js": "/workshop/static/js/main.91f30052.js",
+    "static/js/787.56315ba9.chunk.js": "/workshop/static/js/787.56315ba9.chunk.js",
+    "index.html": "/workshop/index.html",
+    "main.f855e6bc.css.map": "/workshop/static/css/main.f855e6bc.css.map",
+    "main.91f30052.js.map": "/workshop/static/js/main.91f30052.js.map",
+    "787.56315ba9.chunk.js.map": "/workshop/static/js/787.56315ba9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.91f30052.js"
+  ]
+}
